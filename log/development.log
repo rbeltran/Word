@@ -18,3 +18,129 @@ Started GET "/" for 127.0.0.1 at 2011-07-20 13:21:21 -0700
   Processing by HomeController#index as HTML
 Rendered home/index.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-22 13:56:35 -0700
+
+ActionController::RoutingError (undefined local variable or method `params' for HomeController:Class):
+  app/controllers/home_controller.rb:3:in `<class:HomeController>'
+  app/controllers/home_controller.rb:1:in `<top (required)>'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-22 13:56:41 -0700
+
+ActionController::RoutingError (undefined local variable or method `params' for HomeController:Class):
+  app/controllers/home_controller.rb:3:in `<class:HomeController>'
+  app/controllers/home_controller.rb:1:in `<top (required)>'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=nose" for 127.0.0.1 at 2011-07-22 13:56:54 -0700
+
+ActionController::RoutingError (undefined local variable or method `params' for HomeController:Class):
+  app/controllers/home_controller.rb:3:in `<class:HomeController>'
+  app/controllers/home_controller.rb:1:in `<top (required)>'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=nose" for 127.0.0.1 at 2011-07-22 14:46:44 -0700
+
+Errno::ENOENT (No such file or directory - docs/yawl.txt):
+  app/models/dictionary.rb:11:in `initialize'
+  app/models/dictionary.rb:11:in `open'
+  app/models/dictionary.rb:11:in `readDictionary'
+  app/models/dictionary.rb:20:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=nose" for 127.0.0.1 at 2011-07-22 14:48:58 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"nose"}
+Completed 500 Internal Server Error in 16ms
+
+NameError (undefined local variable or method `query' for #<HomeController:0x204ac08>):
+  app/controllers/home_controller.rb:10:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=nose" for 127.0.0.1 at 2011-07-22 14:51:39 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"nose"}
+Completed 500 Internal Server Error in 16ms
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.include?):
+  app/models/dictionary.rb:29:in `wordsWithFriendsHasEntry?'
+  app/controllers/home_controller.rb:11:in `index'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=nose" for 127.0.0.1 at 2011-07-22 14:53:49 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"nose"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-22 14:54:29 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=poop" for 127.0.0.1 at 2011-07-22 14:54:34 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"poop"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=flossy" for 127.0.0.1 at 2011-07-22 14:54:48 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"flossy"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=flossyer" for 127.0.0.1 at 2011-07-22 14:55:14 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"flossyer"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zen" for 127.0.0.1 at 2011-07-22 14:55:20 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zen"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-22 14:55:27 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)

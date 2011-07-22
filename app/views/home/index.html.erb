@@ -7,7 +7,9 @@
   <%= csrf_meta_tag %>
 </head>
 <body style="background: #EEEEEE;">
-<div>Hello Heroku!</div>
+<div>Query was: <%=@query%></div> <br />
+<div>Wordsmith <%=@resultWS%></div> <br />
+<div>WordsWithFriends <%=@resultWWF%></div> <br />
 <%= yield %>
  
 </body>
