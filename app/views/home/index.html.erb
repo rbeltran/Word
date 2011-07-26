@@ -1,16 +1,46 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-  <title>Word</title>
-  <%= stylesheet_link_tag :all %>
+<title>Word</title>
+<meta http-equiv="Content-Type" content="text/HTML; charset=UTF-8" />
   <%= javascript_include_tag :defaults %>
   <%= csrf_meta_tag %>
+  <%=stylesheet_link_tag "mobile.css" %>
 </head>
-<body style="background: #EEEEEE;">
-<div>Query was: <%=@query%></div> <br />
-<div>Wordsmith <%=@resultWS%></div> <br />
-<div>WordsWithFriends <%=@resultWWF%></div> <br />
-<%= yield %>
- 
+
+<body>
+<div id="container">
+<div id="header">
+	<div id="headertext">
+		Word
+	</div>
+</div>	
+<div id="main">
+	<p>Welcome to Word.  A fast way to lookup valid words for Wordsmith and Words With Friends.</p>
+	<form action="/" method="post" >
+		
+		<span >Lookup:</span><br />
+		<input type="text" value="<%=@query%>" name="query" /><br />
+		<input type="submit" value="Go" />
+		<% if( @resultWS == true ) %>
+			<div class="good-result" >
+		<% else %>
+			<div class="bad-result" >
+		<% end%>
+		Wordsmith </div>
+		<% if( @resultWWF == true ) %>
+			<div class="good-result" >
+		<% else %>
+			<div class="bad-result" >
+		<% end%>
+		Words With Friends </div>
+
+	</form>
+	
+</div>
+	
+<div id="footer">Site Design by <a href="http://hbhc.ifobos.com" title="HBHC, HalfBrian's Home">HalfBrian</a> </div>
+</div>
 </body>
-</html
+</html>

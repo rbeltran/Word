@@ -1,0 +1,93 @@
+body {
+	font: bold 11px/1.5em Verdana;
+	background-color: #EEEEEE;
+	width: 250px;
+}
+
+h2 {
+	font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+	color: #000;
+	margin: 0px;
+	padding: 0px 0px 0px 15px;
+}
+img {
+border: none;
+}
+
+pre {
+	border: 1px solid #24618E;
+	background-color: #9DB0BF;
+	width: 80%;
+	padding: 5px;
+	margin: 5px auto;
+}
+
+#container {
+	width: 250px;
+	padding: 0;
+	margin: 0 auto;
+}
+.good-result {
+	color: green;
+}
+.bad-result {
+	color: red;
+}
+/*/////////////////////
+//   Header         
+/////////////////////*/
+#header {
+	background-color: #FFF;
+	background: url('../images/header.jpg') no-repeat left top;
+	width: px;
+	height: 103px;
+	border: 1px solid #7593AB;
+}
+#headertext {
+	position: relative;
+	left: 50%;
+	top: 50%;
+	color: #253547;
+	font-size: 2em;
+}
+/*/////////////////////
+//   Main         
+/////////////////////*/
+#middle {
+	background-color: #EEEEEE;
+	width: 250px;
+	border: 1px solid #7593AB;
+}
+#main {
+	padding: 10px;
+	font: 12px;
+}
+/*/////////////////////
+//   Footer         
+/////////////////////*/
+#footer {
+	background-color: transparent;
+	width: 250px;
+	height: 32px;
+	color: #FFF;
+	padding: 5px;
+	font: normal 80% Arial;
+}
+/*/////////////////////
+//   Links         
+/////////////////////*/
+a:link {
+	color: #7593AB;
+}
+a:visted {
+	color: #7593AB;
+}
+a:hover {
+	color: #24618E;
+}
+a:active {
+	color: #7593AB;
+}
+a {
+	color: #7593AB;
+}

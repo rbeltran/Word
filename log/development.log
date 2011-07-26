@@ -144,3 +144,1486 @@ Started GET "/?query=zine" for 127.0.0.1 at 2011-07-22 14:55:27 -0700
   Parameters: {"query"=>"zine"}
 Rendered home/index.html.erb (0.0ms)
 Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-26 11:24:41 -0700
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb (46.9ms)
+Completed 200 OK in 188ms (Views: 93.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-26 11:39:06 -0700
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 94ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 11:39:07 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 11:39:07 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 11:39:07 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 11:39:07 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-26 11:50:14 -0700
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 109ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 11:50:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 11:50:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 11:50:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 11:50:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-26 12:14:02 -0700
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:14:03 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:14:03 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:14:03 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:14:03 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 12:14:14 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:14:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:14:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:14:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:14:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 12:55:54 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:55:54 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:55:54 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 12:58:22 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:58:22 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:58:23 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/upperright.png" for 127.0.0.1 at 2011-07-26 12:58:23 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/upperright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/upperleft.png" for 127.0.0.1 at 2011-07-26 12:58:23 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/upperleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/footer.png" for 127.0.0.1 at 2011-07-26 12:58:23 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/footer.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/header.jpg" for 127.0.0.1 at 2011-07-26 12:58:23 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/header.jpg"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/lowerright.png" for 127.0.0.1 at 2011-07-26 12:58:23 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/lowerright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/lowerleft.png" for 127.0.0.1 at 2011-07-26 12:58:23 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/lowerleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 12:58:56 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/upperleft.png" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/upperleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/header.jpg" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/header.jpg"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/footer.png" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/footer.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/upperright.png" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/upperright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/lowerleft.png" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/lowerleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/lowerright.png" for 127.0.0.1 at 2011-07-26 12:58:57 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/lowerright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 12:59:03 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/header.jpg" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/header.jpg"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/upperleft.png" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/upperleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/lowerleft.png" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/lowerleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/upperright.png" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/upperright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/footer.png" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/footer.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/lowerright.png" for 127.0.0.1 at 2011-07-26 12:59:04 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/lowerright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 12:59:57 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/upperright.png" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/upperright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/stylesheets/public/images/header.jpg" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/header.jpg"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/upperleft.png" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/upperleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/lowerleft.png" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/lowerleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/footer.png" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/footer.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/public/images/lowerright.png" for 127.0.0.1 at 2011-07-26 12:59:58 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/public/images/lowerright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:00:55 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/footer.png" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/public/images/footer.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/upperright.png" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/public/images/upperright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/header.jpg" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/public/images/header.jpg"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/upperleft.png" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/public/images/upperleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/lowerright.png" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/public/images/lowerright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/lowerleft.png" for 127.0.0.1 at 2011-07-26 13:00:56 -0700
+
+ActionController::RoutingError (No route matches "/public/images/lowerleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:01:20 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/header.jpg" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/public/images/header.jpg"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/lowerleft.png" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/public/images/lowerleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/upperright.png" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/public/images/upperright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/upperleft.png" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/public/images/upperleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/lowerright.png" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/public/images/lowerright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/footer.png" for 127.0.0.1 at 2011-07-26 13:01:21 -0700
+
+ActionController::RoutingError (No route matches "/public/images/footer.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:02:18 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:02:19 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:02:19 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/lowerleft.png" for 127.0.0.1 at 2011-07-26 13:02:19 -0700
+
+ActionController::RoutingError (No route matches "/public/images/lowerleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/upperleft.png" for 127.0.0.1 at 2011-07-26 13:02:19 -0700
+
+ActionController::RoutingError (No route matches "/public/images/upperleft.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/public/images/upperright.png" for 127.0.0.1 at 2011-07-26 13:02:19 -0700
+
+ActionController::RoutingError (No route matches "/public/images/upperright.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:02:32 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:02:33 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:02:33 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:03:11 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 63ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:03:12 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:03:12 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:03:52 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:03:53 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:03:53 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:04:15 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:04:16 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:04:16 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:04:19 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:04:20 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:04:20 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:04:33 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 78ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:04:34 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:04:34 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:05:11 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:05:11 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:05:11 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:05:14 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:05:14 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:05:14 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:05:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:05:15 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:05:37 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:05:38 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:05:38 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:05:38 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:05:38 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:06:59 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:06:59 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:06:59 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/portrait.css" for 127.0.0.1 at 2011-07-26 13:06:59 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/portrait.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/stylesheets/landscape.css" for 127.0.0.1 at 2011-07-26 13:06:59 -0700
+
+ActionController::RoutingError (No route matches "/stylesheets/landscape.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:07:31 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:08:50 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:11:27 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_home_index_html_erb__697530353_26933244_1014836118 at C:/projects/Word/app/views/home/index.html.erb:21)
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/home/index" for 127.0.0.1 at 2011-07-26 13:11:39 -0700
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:15:32 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_home_index_html_erb__697530353_26936664_1014836118 at C:/projects/Word/app/views/home/index.html.erb:21)
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/home/index?method=post" for 127.0.0.1 at 2011-07-26 13:15:35 -0700
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:34:35 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (109.4ms)
+Completed 500 Internal Server Error in 141ms
+
+ActionView::Template::Error (No route matches {:controller=>"home", :action=>"home#index", :method=>"post"}):
+    18:     <div class="lowerleft">
+    19:       <div class="lowerright">
+    20:         <h1>Word!</h1>
+    21: 		<% form_tag(:controller => "home", :action => "home#index", :method =>"post" ) do %>
+    22: 			<input type="text" value="<%=@query%>" length="20" /> <input type="submit" value="Go" /><br />
+    23: 			<% if( @resultWS == true ) %>
+    24: 				<div class="good-result" >
+  app/views/home/index.html.erb:21:in `_app_views_home_index_html_erb__697530353_18316752_1014836118'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (31.3ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (62.5ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:34:44 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 500 Internal Server Error in 47ms
+
+ActionView::Template::Error (No route matches {:controller=>"home", :action=>"home#index", :method=>"post"}):
+    18:     <div class="lowerleft">
+    19:       <div class="lowerright">
+    20:         <h1>Word!</h1>
+    21: 		<% form_tag(:controller => "home", :action => "home#index", :method =>"post" ) do %>
+    22: 			<input type="text" value="<%=@query%>" length="20" /> <input type="submit" value="Go" /><br />
+    23: 			<% if( @resultWS == true ) %>
+    24: 				<div class="good-result" >
+  app/views/home/index.html.erb:21:in `_app_views_home_index_html_erb__697530353_22236408_1014836118'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (15.6ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:35:36 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 500 Internal Server Error in 47ms
+
+ActionView::Template::Error (No route matches {:controller=>"home", :action=>"home#index", :method=>"post"}):
+    18:     <div class="lowerleft">
+    19:       <div class="lowerright">
+    20:         <h1>Word!</h1>
+    21: 		<% form_tag(:controller => "home", :action => "home#index", :method =>"post" ) do %>
+    22: 			<input type="text" value="<%=@query%>" length="20" /> <input type="submit" value="Go" /><br />
+    23: 			<% if( @resultWS == true ) %>
+    24: 				<div class="good-result" >
+  app/views/home/index.html.erb:21:in `_app_views_home_index_html_erb__697530353_25835916_1014836118'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:35:56 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (15.6ms)
+Completed 500 Internal Server Error in 47ms
+
+ActionView::Template::Error (No route matches {:controller=>"home", :action=>"#index", :method=>"post"}):
+    18:     <div class="lowerleft">
+    19:       <div class="lowerright">
+    20:         <h1>Word!</h1>
+    21: 		<% form_tag(:controller => "home", :action => "#index", :method =>"post" ) do %>
+    22: 			<input type="text" value="<%=@query%>" length="20" /> <input type="submit" value="Go" /><br />
+    23: 			<% if( @resultWS == true ) %>
+    24: 				<div class="good-result" >
+  app/views/home/index.html.erb:21:in `_app_views_home_index_html_erb__697530353_25836528_1014836118'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (15.6ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:35:57 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 500 Internal Server Error in 31ms
+
+ActionView::Template::Error (No route matches {:controller=>"home", :action=>"#index", :method=>"post"}):
+    18:     <div class="lowerleft">
+    19:       <div class="lowerright">
+    20:         <h1>Word!</h1>
+    21: 		<% form_tag(:controller => "home", :action => "#index", :method =>"post" ) do %>
+    22: 			<input type="text" value="<%=@query%>" length="20" /> <input type="submit" value="Go" /><br />
+    23: 			<% if( @resultWS == true ) %>
+    24: 				<div class="good-result" >
+  app/views/home/index.html.erb:21:in `_app_views_home_index_html_erb__697530353_25837068_1014836118'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:36:05 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+DEPRECATION WARNING: <% %> style block helpers are deprecated. Please use <%= %>. (called from _app_views_home_index_html_erb__697530353_25836588_1014836118 at C:/projects/Word/app/views/home/index.html.erb:21)
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/home/index?method=post" for 127.0.0.1 at 2011-07-26 13:36:09 -0700
+
+ActionController::RoutingError (No route matches "/home/index"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 13:38:49 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 13:38:51 -0700
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?trooz" for 127.0.0.1 at 2011-07-26 13:39:15 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"trooz"=>nil}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?trooz" for 127.0.0.1 at 2011-07-26 13:39:20 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"trooz"=>nil}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:39:40 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:40:30 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:45:45 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:46:30 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:50:29 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:50:51 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:51:18 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:51:49 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:56:31 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:57:59 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 13:58:31 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:08:24 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main.css" for 127.0.0.1 at 2011-07-26 14:08:25 -0700
+
+ActionController::RoutingError (No route matches "/main.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:08:40 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main.css" for 127.0.0.1 at 2011-07-26 14:08:41 -0700
+
+ActionController::RoutingError (No route matches "/main.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:09:30 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/main.css" for 127.0.0.1 at 2011-07-26 14:09:31 -0700
+
+ActionController::RoutingError (No route matches "/main.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:09:47 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/mobile.css" for 127.0.0.1 at 2011-07-26 14:09:47 -0700
+
+ActionController::RoutingError (No route matches "/mobile.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:10:19 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:14:16 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:14:37 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:15:07 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:16:07 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:16:29 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:18:01 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:18:23 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:20:03 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:20:15 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:26:26 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:28:16 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:28:21 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:35:07 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=trooz" for 127.0.0.1 at 2011-07-26 14:35:29 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"trooz"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:35:55 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"bakckdld"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:36:47 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"bakckdld"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:37:21 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"bakckdld"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:37:54 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"bakckdld"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 63ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:38:14 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"poop"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:39:26 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"poop"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 14:39:55 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 14:40:09 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 14:40:54 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 14:41:11 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:41:21 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zin"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:45:52 -0700
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at C:/projects/Word/app/controllers/application_controller.rb:1)
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zin"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:46:08 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zin"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:46:13 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:46:20 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zoom"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 14:46:24 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"dkdkd"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
