@@ -12,6 +12,8 @@ class Dictionary < ActiveRecord::Base
 		$wordSmithHash = contents.split( /[,\s]+/ )
 		contents = File.open( $WORDS_WITH_FRIENDS_FILE, "r" ).read
 		$wordsWithFriendsHash = contents.split( /[,\s]+/ )
+		$wordsWithFriendsHash << "zen"
+		$wordsWithFriendsHash << "texting"
 	end
 	
 	def buildDictionary

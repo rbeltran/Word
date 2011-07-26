@@ -1,14 +1,17 @@
 body {
-	font: bold 16px Verdana;
+	font: bold 32px Verdana;
 	background-color: #EEEEEE;
 	width: 250px;
 }
 
 h2 {
-	font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+	font: bold 42px Verdana, Arial, Helvetica, sans-serif;
 	color: #000;
 	margin: 0px;
 	padding: 0px 0px 0px 15px;
+}
+input {
+	font: 32px Verdana;
 }
 img {
 border: none;
@@ -48,7 +51,7 @@ pre {
 	left: 50%;
 	top: 50%;
 	color: #253547;
-	font-size: 2em;
+	font-size: 32px;
 }
 /*/////////////////////
 //   Main         
@@ -59,7 +62,7 @@ pre {
 	border: 1px solid #7593AB;
 }
 #main {
-	padding: 10px;
+	padding: 0px;
 	font: 16px;
 	text-align: center;
 }

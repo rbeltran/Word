@@ -17,12 +17,13 @@
 	</div>
 </div>	
 <div id="main">
-	<p>Welcome to Word.  A fast way to lookup valid words for Wordsmith and Words With Friends.</p>
+	<p>Look up words for Wordsmith and Words With Friends</p>
+	<p> FAST! </p>
 	<form action="/" method="post" >
 		
 		<span >Lookup:</span><br />
 		<input type="text" value="<%=@query%>" name="query" /><br />
-		<input type="submit" value="Go" />
+		<input type="submit" value="Search" />
 		<% if( @resultWS == true ) %>
 			<div class="good-result" >
 		<% else %>
