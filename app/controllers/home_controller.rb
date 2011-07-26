@@ -8,8 +8,8 @@ class HomeController < ApplicationController
   def index
     @query = params[ :query ]
 	if( !@query.nil? )
-		@resultWS = @dictionary.wordsmithHasEntry?( @query )
-		@resultWWF = @dictionary.wordsWithFriendsHasEntry?( @query )
+		@resultWS = @dictionary.wordsmithHasEntry?( @query.downcase )
+		@resultWWF = @dictionary.wordsWithFriendsHasEntry?( @query.downcase )
 	end
   end
 

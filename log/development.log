@@ -1627,3 +1627,73 @@ Started POST "/" for 127.0.0.1 at 2011-07-26 14:46:24 -0700
   Parameters: {"query"=>"dkdkd"}
 Rendered home/index.html.erb (0.0ms)
 Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 15:05:32 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 15:07:58 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:17 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"wahoo"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:21 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"yahoo"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:23 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"yahoo"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:25 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"yahoodd"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 63ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:29 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"wahood"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:30 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"wahood"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:32 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zen"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 15:08:34 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zen"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)

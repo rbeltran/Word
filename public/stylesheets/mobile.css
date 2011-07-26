@@ -1,5 +1,5 @@
 body {
-	font: bold 11px/1.5em Verdana;
+	font: bold 16px Verdana;
 	background-color: #EEEEEE;
 	width: 250px;
 }
@@ -60,7 +60,8 @@ pre {
 }
 #main {
 	padding: 10px;
-	font: 12px;
+	font: 16px;
+	text-align: center;
 }
 /*/////////////////////
 //   Footer         
