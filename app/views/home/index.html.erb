@@ -2,21 +2,53 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>Word</title>
-<meta http-equiv="Content-Type" content="text/HTML; charset=UTF-8" />
-  <%= javascript_include_tag :defaults %>
-  <%= csrf_meta_tag %>
-  <%=stylesheet_link_tag "mobile.css" %>
+	<title>Word</title>
+	<meta http-equiv="Content-Type" content="text/HTML; charset=UTF-8" />
+	<%= csrf_meta_tag %>
+	<%= javascript_include_tag "http://www.google.com/jsapi" %>
+	<script type="text/javascript"> google.load("jquery", "1.4.2"); </script>
+	<%=javascript_include_tag "/jqtouch-b3.1-0/jqtouch/jqtouch.js" %>
+	<%=stylesheet_link_tag "../jqtouch-b3.1-0/jqtouch/jqtouch.css" %>
+	<%=stylesheet_link_tag "../jqtouch-b3.1-0/themes/jqt/theme.css" %>
+
+	<script language="javascript" >
+		$.jQTouch({
+		icon: 'jqtouch.png',
+		statusBar: 'black-translucent',
+		preloadImages: [
+			'themes/jqt/img/chevron_white.png',
+			'themes/jqt/img/bg_row_select.gif',
+			'themes/jqt/img/back_button_clicked.png',
+			'themes/jqt/img/button_clicked.png'
+			]
+		});
+
+	</script>
 </head>
 
 <body>
-<div id="container">
-<div id="header">
-	<div id="headertext">
-		Word
+	<form action="/" method="post" >
+	<div id="home" class="current">
+		<div class="toolbar">
+			<h1>Word</h1>
+			<a class="button slideup" id="infoButton" href="#about">About</a>
+		</div>
+		<ul class="rounded">
+			<li class="arrow">Lookup:</li>
+            <li class="arrow"><input type="search" name="query" value="<%=@query%>" length="20"/></li>
+            <li class="arrow"><input type="Submit" name="" value="Search" /></li>
+		<% if( !@query.nil? && !@query.empty?) %>
+			<li class="arrow" ><span class="<%if( @resultWS == true )%> green <%else%> red<% end %>" >Wordsmith</span></li>
+			<li class="arrow" ><span class="<%if( @resultWWF == true )%> green <%else%> red<% end %>" >Words With Friends</li>
+		<% end%>
+			
+		</ul>
+		
 	</div>
-</div>	
-<div id="main">
+	</form>
+</body>
+</html>
+<!--div id="main">
 	<p>Look up words for Wordsmith and Words With Friends</p>
 	<p> FAST! </p>
 	<form action="/" method="post" >
@@ -42,4 +74,4 @@
 </div>
 
 </body>
-</html>
+</html-->

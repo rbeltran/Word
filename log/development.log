@@ -1754,3 +1754,1195 @@ Started POST "/" for 127.0.0.1 at 2011-07-26 15:43:08 -0700
   Parameters: {"query"=>"texting"}
 Rendered home/index.html.erb (0.0ms)
 Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:32:58 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:32:58 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:32:59 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:32:59 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:32:59 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:33:13 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:33:13 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:33:13 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:33:14 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:33:14 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:35:38 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:35:39 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:35:39 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:35:39 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:35:39 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:36:18 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:36:19 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:36:19 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:36:19 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:36:19 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:36:57 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:36:57 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:36:57 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:36:58 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:36:58 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:37:00 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:37:00 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:37:01 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:37:01 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:37:01 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:37:22 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:39:18 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:39:22 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:39:22 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:39:23 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:39:23 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:39:23 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:40:09 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:40:09 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:40:09 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:40:09 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:40:09 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min.css" for 127.0.0.1 at 2011-07-26 18:40:09 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css" for 127.0.0.1 at 2011-07-26 18:40:09 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.css"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:43:25 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:43:25 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min" for 127.0.0.1 at 2011-07-26 18:43:25 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min" for 127.0.0.1 at 2011-07-26 18:43:25 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js" for 127.0.0.1 at 2011-07-26 18:43:25 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min.js"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/jqtouch/jqtouch.min" for 127.0.0.1 at 2011-07-26 18:43:25 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/jqtouch/jqtouch.min"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/jqtouch-b3.1-0/themes/jqt/theme.min" for 127.0.0.1 at 2011-07-26 18:43:25 -0700
+
+ActionController::RoutingError (No route matches "/jqtouch-b3.1-0/themes/jqt/theme.min"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 18:48:08 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"texting"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 18:48:09 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 18:48:09 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 18:48:09 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 18:48:09 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 18:53:42 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 63ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 18:53:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 18:53:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 18:53:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 18:53:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 18:54:40 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 18:54:41 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 18:54:41 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 18:54:41 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 18:54:41 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:06:10 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+ERROR: compiling _app_views_home_index_html_erb___22562417_24281052__574055677 RAISED C:/projects/Word/app/views/home/index.html.erb:42: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+... if( !@resultWS == true ) error ;@output_buffer.safe_concat(...
+...                               ^
+C:/projects/Word/app/views/home/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+...if( !@resultWWF == true ) error ;@output_buffer.safe_concat(...
+...                               ^
+Function body:           def _app_views_home_index_html_erb___22562417_24281052__574055677(local_assigns)
+            _old_virtual_path, @_virtual_path = @_virtual_path, "home/index";_old_output_buffer = @output_buffer;;@output_buffer = ActionView::OutputBuffer.new;@output_buffer.safe_concat('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<title>Word</title>
+	<meta http-equiv="Content-Type" content="text/HTML; charset=UTF-8" />
+	');@output_buffer.append= ( javascript_include_tag :defaults );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('	');@output_buffer.append= ( csrf_meta_tag );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('	');@output_buffer.append= ( javascript_include_tag "http://www.google.com/jsapi" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('	<script type="text/javascript"> google.load("jquery", "1.4.2"); </script>
+	');@output_buffer.append= (javascript_include_tag "/jqtouch-b3.1-0/jqtouch/jqtouch.js" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('	');@output_buffer.append= (stylesheet_link_tag "../jqtouch-b3.1-0/jqtouch/jqtouch.css" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('	');@output_buffer.append= (stylesheet_link_tag "../jqtouch-b3.1-0/themes/jqt/theme.css" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('
+	<script language="javascript" >
+		$.jQTouch({
+		icon: \'jqtouch.png\',
+		statusBar: \'black-translucent\',
+		preloadImages: [
+			\'themes/jqt/img/chevron_white.png\',
+			\'themes/jqt/img/bg_row_select.gif\',
+			\'themes/jqt/img/back_button_clicked.png\',
+			\'themes/jqt/img/button_clicked.png\'
+			]
+		});
+
+	</script>
+</head>
+
+<body>
+	<form action="/" method="post" >
+	<div id="home" class="current">
+		<div class="toolbar">
+			<h1>Word</h1>
+			<a class="button slideup" id="infoButton" href="#about">About</a>
+		</div>
+		<ul class="rounded">
+			<li class="arrow">>Lookup:</li>
+            <li class="arrow"><input type="search" name="query" value="');@output_buffer.append= (@query);@output_buffer.safe_concat('" length="20"/></li>
+            <li class="arrow"><input type="Submit" name="" value="Search" /></li>
+');		 if( !@query.isNil? ) 
+@output_buffer.safe_concat('			<li class="arrow '); if( !@resultWS == true ) error ;@output_buffer.safe_concat('" >Wordsmith</li>
+			<li class="arrow" ');if( !@resultWWF == true ) error ;@output_buffer.safe_concat(' >Words With Friends</li>
+');		 end
+@output_buffer.safe_concat('			
+		</ul>
+		
+	</div>
+	</form>
+</body>
+</html>
+<!--div id="main">
+	<p>Look up words for Wordsmith and Words With Friends</p>
+	<p> FAST! </p>
+	<form action="/" method="post" >
+		
+		<span >Lookup:</span><br />
+		<input type="text" value="');@output_buffer.append= (@query);@output_buffer.safe_concat('" name="query" /><br />
+		<input type="submit" value="Search" />
+');		 if( @resultWS == true ) 
+@output_buffer.safe_concat('			<div class="good-result" >
+');		 else 
+@output_buffer.safe_concat('			<div class="bad-result" >
+');		 end
+@output_buffer.safe_concat('		Wordsmith </div>
+');		 if( @resultWWF == true ) 
+@output_buffer.safe_concat('			<div class="good-result" >
+');		 else 
+@output_buffer.safe_concat('			<div class="bad-result" >
+');		 end
+@output_buffer.safe_concat('		Words With Friends </div>
+
+	</form>
+	
+</div>
+
+</body>
+</html-->');@output_buffer.to_s
+          ensure
+            @_virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+Backtrace: C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_view/template.rb:258:in `module_eval'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_view/template.rb:258:in `compile'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_view/template.rb:134:in `block in render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/notifications.rb:54:in `instrument'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_view/template.rb:127:in `render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:59:in `block in _render_template'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `block in instrument'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `instrument'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:56:in `_render_template'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_view/render/rendering.rb:26:in `render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:115:in `_render_template'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:109:in `render_to_body'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/renderers.rb:47:in `render_to_body'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/compatibility.rb:55:in `render_to_body'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:102:in `render_to_string'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:93:in `render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/rendering.rb:17:in `render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+C:/Ruby192/lib/ruby/1.9.1/benchmark.rb:310:in `realtime'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:78:in `cleanup_view_runtime'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activerecord-3.0.9/lib/active_record/railties/controller_runtime.rb:15:in `cleanup_view_runtime'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:39:in `render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/base.rb:150:in `process_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/rendering.rb:11:in `process_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:436:in `_run__474088373__process_action__771490798__callbacks'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:410:in `_run_process_action_callbacks'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:94:in `run_callbacks'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/callbacks.rb:17:in `process_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `block in instrument'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/notifications.rb:52:in `instrument'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/rescue.rb:17:in `process_action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/base.rb:119:in `process'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/abstract_controller/rendering.rb:41:in `process'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal.rb:138:in `dispatch'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_controller/metal.rb:178:in `block in action'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:62:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:62:in `dispatch'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:27:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-mount-0.6.14/lib/rack/mount/route_set.rb:148:in `block in call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:93:in `block in recognize'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:68:in `optimized_each'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-mount-0.6.14/lib/rack/mount/code_generation.rb:92:in `recognize'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-mount-0.6.14/lib/rack/mount/route_set.rb:139:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/routing/route_set.rb:493:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/head.rb:14:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.3/lib/rack/methodoverride.rb:24:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/flash.rb:182:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/session/abstract_store.rb:149:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/cookies.rb:302:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:32:in `block in call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activerecord-3.0.9/lib/active_record/connection_adapters/abstract/query_cache.rb:28:in `cache'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:12:in `cache'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activerecord-3.0.9/lib/active_record/query_cache.rb:31:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activerecord-3.0.9/lib/active_record/connection_adapters/abstract/connection_pool.rb:354:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/callbacks.rb:46:in `block in call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/callbacks.rb:416:in `_run_call_callbacks'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/callbacks.rb:44:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.3/lib/rack/sendfile.rb:107:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/remote_ip.rb:48:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/show_exceptions.rb:47:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/railties-3.0.9/lib/rails/rack/logger.rb:13:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.3/lib/rack/runtime.rb:17:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/activesupport-3.0.9/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.3/lib/rack/lock.rb:11:in `block in call'
+<internal:prelude>:10:in `synchronize'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.3/lib/rack/lock.rb:11:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/static.rb:30:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/railties-3.0.9/lib/rails/application.rb:168:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/railties-3.0.9/lib/rails/application.rb:77:in `method_missing'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/railties-3.0.9/lib/rails/rack/log_tailer.rb:14:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.3/lib/rack/content_length.rb:13:in `call'
+C:/Ruby192/lib/ruby/gems/1.9.1/gems/rack-1.2.3/lib/rack/handler/webrick.rb:52:in `service'
+C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+C:/Ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+Rendered home/index.html.erb (125.0ms)
+Completed 500 Internal Server Error in 172ms
+
+ActionView::Template::Error (C:/projects/Word/app/views/home/index.html.erb:42: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+... if( !@resultWS == true ) error ;@output_buffer.safe_concat(...
+...                               ^
+C:/projects/Word/app/views/home/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+...if( !@resultWWF == true ) error ;@output_buffer.safe_concat(...
+...                               ^):
+    39:             <li class="arrow"><input type="search" name="query" value="<%=@query%>" length="20"/></li>
+    40:             <li class="arrow"><input type="Submit" name="" value="Search" /></li>
+    41: 		<% if( !@query.isNil? ) %>
+    42: 			<li class="arrow <% if( !@resultWS == true ) error %>" >Wordsmith</li>
+    43: 			<li class="arrow" <%if( !@resultWWF == true ) error %> >Words With Friends</li>
+    44: 		<% end%>
+    45: 			
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:07:13 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (15.6ms)
+Completed 500 Internal Server Error in 47ms
+
+ActionView::Template::Error (undefined method `isNil?' for "zine":String):
+    38: 			<li class="arrow">>Lookup:</li>
+    39:             <li class="arrow"><input type="search" name="query" value="<%=@query%>" length="20"/></li>
+    40:             <li class="arrow"><input type="Submit" name="" value="Search" /></li>
+    41: 		<% if( !@query.isNil? ) %>
+    42: 			<li class="arrow <% if( !@resultWS == true ) %> error <% end %>" >Wordsmith</li>
+    43: 			<li class="arrow" <%if( !@resultWWF == true )%> error <% end %> >Words With Friends</li>
+    44: 		<% end%>
+  app/views/home/index.html.erb:41:in `_app_views_home_index_html_erb___22562417_23611836__574055677'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (15.6ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (31.3ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:07:55 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:07:56 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:07:56 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:08:43 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:08:49 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:08:49 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:08:49 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:08:49 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:10:32 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:10:32 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:10:32 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:10:32 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:10:32 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:11:46 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:11:46 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:11:46 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:11:46 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:11:46 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:11:48 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:11:48 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:11:48 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:11:48 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:11:48 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-26 19:16:25 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:16:26 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:16:26 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:16:26 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:16:26 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=zin" for 127.0.0.1 at 2011-07-26 19:16:34 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zin"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:16:34 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:16:34 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:16:34 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:16:34 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=" for 127.0.0.1 at 2011-07-26 19:16:42 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>""}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:16:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:16:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:16:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:16:42 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=" for 127.0.0.1 at 2011-07-26 19:17:07 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>""}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:17:07 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:17:07 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:07 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:07 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 19:17:18 -0700
+  Processing by HomeController#index as 
+  Parameters: {"query"=>"poop"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:17:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:17:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=poop" for 127.0.0.1 at 2011-07-26 19:17:28 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"poop"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:28 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:17:28 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:17:28 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:28 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (78.1ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-26 19:17:36 -0700
+  Processing by HomeController#index as 
+  Parameters: {"query"=>"poio"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:36 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-26 19:17:36 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-26 19:17:36 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-26 19:17:36 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
