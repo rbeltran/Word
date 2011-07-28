@@ -3534,3 +3534,128 @@ Started GET "/?query=zine" for 127.0.0.1 at 2011-07-28 15:15:32 -0700
   Parameters: {"query"=>"zine"}
 Rendered home/index.html.erb (0.0ms)
 Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:28:03 -0700
+  Processing by HomeController#index as 
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 63ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-28 15:28:39 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:28:46 -0700
+  Processing by HomeController#index as 
+  Parameters: {"query"=>"food"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:28:47 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"food"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:29:01 -0700
+  Processing by HomeController#index as 
+  Parameters: {"query"=>"beaners"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 63ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:29:01 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"beaners"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:29:19 -0700
+  Processing by HomeController#index as 
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 78ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:29:19 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:33:52 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:34:28 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:36:33 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-28 15:36:57 -0700
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:37:00 -0700
+  Processing by HomeController#index as 
+  Parameters: {"query"=>"hello"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:37:00 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"hello"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:37:26 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:37:42 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:39:51 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 15:40:40 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)

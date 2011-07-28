@@ -21,6 +21,7 @@
 </head>
 
 <body>
+	<div id="jqt" class="portrait">
 	<form action="/" method="post" >
 	<div id="home" class="current">
 		<div class="toolbar">
@@ -28,44 +29,18 @@
 			<a class="button slideup" id="infoButton" href="#about">About</a>
 		</div>
 		<ul class="rounded">
-			<li class="arrow">Lookup:</li>
-            <li class="arrow"><input type="search" name="query" value="<%=@query%>" length="20"/></li>
-            <li class="arrow"><input type="Submit" name="" value="Search" /></li>
+			<li class=""><span class="white" >Lookup:</li>
+            <li class=""><input class="white" type="search" name="query" value="<%=@query%>" length="20"/></li>
+            <li class=""><input type="Submit" name="" value="Search" onClick="this.form.submit()" /></li>
 		<% if( !@query.nil? && !@query.empty?) %>
-			<li class="arrow" ><span class="<%if( @resultWS == true )%> green <%else%> red<% end %>" >Wordsmith</span></li>
-			<li class="arrow" ><span class="<%if( @resultWWF == true )%> green <%else%> red<% end %>" >Words With Friends</li>
+			<li class="" ><span class="<%if( @resultWS == true )%> green <%else%> red<% end %>" >Wordsmith</span></li>
+			<li class="" ><span class="<%if( @resultWWF == true )%> green <%else%> red<% end %>" >Words With Friends</li>
 		<% end%>
 			
 		</ul>
 		
 	</div>
 	</form>
+	</div>
 </body>
 </html>
-<!--div id="main">
-	<p>Look up words for Wordsmith and Words With Friends</p>
-	<p> FAST! </p>
-	<form action="/" method="post" >
-		
-		<span >Lookup:</span><br />
-		<input type="text" value="<%=@query%>" name="query" /><br />
-		<input type="submit" value="Search" />
-		<% if( @resultWS == true ) %>
-			<div class="good-result" >
-		<% else %>
-			<div class="bad-result" >
-		<% end%>
-		Wordsmith </div>
-		<% if( @resultWWF == true ) %>
-			<div class="good-result" >
-		<% else %>
-			<div class="bad-result" >
-		<% end%>
-		Words With Friends </div>
-
-	</form>
-	
-</div>
-
-</body>
-</html-->
