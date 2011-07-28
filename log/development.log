@@ -3659,3 +3659,11 @@ Started POST "/" for 127.0.0.1 at 2011-07-28 15:40:40 -0700
   Parameters: {"query"=>"swinger"}
 Rendered home/index.html.erb (0.0ms)
 Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2011-07-28 16:31:42 -0700
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from <top (required)> at C:/projects/Word/app/controllers/application_controller.rb:1)
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"swinger"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
