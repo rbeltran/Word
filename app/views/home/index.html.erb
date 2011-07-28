@@ -7,7 +7,7 @@
 	<%= csrf_meta_tag %>
 	<%= javascript_include_tag "http://www.google.com/jsapi" %>
 	<script type="text/javascript"> google.load("jquery", "1.4.2"); </script>
-	<%=javascript_include_tag "/jqtouch-b3.1-0/jqtouch/jqtouch.js" %>
+	<%=javascript_include_tag "../jqtouch-b3.1-0/jqtouch/jqtouch.js" %>
 	<%=stylesheet_link_tag "../jqtouch-b3.1-0/jqtouch/jqtouch.css" %>
 	<%=stylesheet_link_tag "../jqtouch-b3.1-0/themes/jqt/theme.css" %>
 
@@ -15,12 +15,6 @@
 		$.jQTouch({
 		icon: 'jqtouch.png',
 		statusBar: 'black-translucent',
-		preloadImages: [
-			'themes/jqt/img/chevron_white.png',
-			'themes/jqt/img/bg_row_select.gif',
-			'themes/jqt/img/back_button_clicked.png',
-			'themes/jqt/img/button_clicked.png'
-			]
 		});
 
 	</script>

@@ -2946,3 +2946,591 @@ ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked
   
 
 Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=zilch" for 127.0.0.1 at 2011-07-28 12:28:29 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zilch"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:28:37 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:28:37 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:28:37 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:28:37 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=cied" for 127.0.0.1 at 2011-07-28 12:32:10 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"cied"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:32:10 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:32:10 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:10 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:10 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=ceed" for 127.0.0.1 at 2011-07-28 12:32:18 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"ceed"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:32:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:32:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:18 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 12:32:23 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:23 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:32:23 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:32:23 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:23 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=ceed" for 127.0.0.1 at 2011-07-28 12:32:44 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"ceed"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:32:44 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:44 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:44 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:32:44 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=il" for 127.0.0.1 at 2011-07-28 12:32:52 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"il"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:32:52 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:52 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:32:52 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:32:52 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=ul" for 127.0.0.1 at 2011-07-28 12:33:00 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"ul"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:33:00 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:33:00 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.6ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:33:00 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:33:00 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 12:34:13 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/themes/jqt/img/bg_row_select.gif" for 127.0.0.1 at 2011-07-28 12:34:13 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/bg_row_select.gif"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/button_clicked.png" for 127.0.0.1 at 2011-07-28 12:34:13 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/back_button_clicked.png" for 127.0.0.1 at 2011-07-28 12:34:13 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/back_button_clicked.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/themes/jqt/img/chevron_white.png" for 127.0.0.1 at 2011-07-28 12:34:13 -0700
+
+ActionController::RoutingError (No route matches "/themes/jqt/img/chevron_white.png"):
+  
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 13:49:02 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:26:56 -0700
+
+SyntaxError (C:/projects/Word/app/models/dictionary.rb:17: target of repeat operator is not specified: /*$wordsWithFriendsHash << "zen"
+		$wordsWithFriendsHash << "da"
+		$wordsWithFriendsHash << "texting"*/):
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.3ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:27:28 -0700
+
+ActiveRecord::StatementInvalid (Could not find table 'dictionaries'):
+  app/models/dictionary.rb:22:in `updateWWF'
+  app/models/dictionary.rb:18:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:28:23 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:29:01 -0700
+
+ActiveRecord::StatementInvalid (Could not find table 'dictionaries'):
+  app/models/dictionary.rb:22:in `updateWWF'
+  app/models/dictionary.rb:18:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:32:16 -0700
+
+ActiveRecord::StatementInvalid (Could not find table 'dictionaries'):
+  app/models/dictionary.rb:22:in `updateWordsWithFriends'
+  app/models/dictionary.rb:18:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (15.6ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:32:37 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:34:15 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:34:57 -0700
+
+ActiveRecord::StatementInvalid (Could not find table 'dictionaries'):
+  app/models/dictionary.rb:19:in `updateWWF'
+  app/models/dictionary.rb:15:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:43:17 -0700
+
+NameError (undefined local variable or method `r' for #<Dictionary:0x2031018>):
+  app/models/dictionary.rb:19:in `updateWWF'
+  app/models/dictionary.rb:15:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:43:51 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (15.6ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:44:39 -0700
+
+NoMethodError (undefined method `split' for #<File:doc/wwf-deleted.txt>):
+  app/models/dictionary.rb:22:in `updateWWF'
+  app/models/dictionary.rb:15:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:45:45 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 16ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:46:22 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:46:48 -0700
+
+TypeError (can't convert Fixnum into String):
+  app/models/dictionary.rb:21:in `+'
+  app/models/dictionary.rb:21:in `updateWWF'
+  app/models/dictionary.rb:15:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:51:25 -0700
+
+SyntaxError (C:/projects/Word/app/models/dictionary.rb:21: syntax error, unexpected tGVAR, expecting keyword_end
+		puts "WWF size = " $wordsWithFriendsHash.length
+		                                        ^):
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:52:19 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:54:21 -0700
+
+RangeError (172820 out of char range):
+  app/models/dictionary.rb:21:in `updateWWF'
+  app/models/dictionary.rb:15:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:57:31 -0700
+
+NameError (undefined local variable or method `wordsWithFriendsHash' for #<Dictionary:0x2041668>):
+  app/models/dictionary.rb:23:in `updateWWF'
+  app/models/dictionary.rb:15:in `readDictionary'
+  app/models/dictionary.rb:32:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (15.6ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 14:58:25 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 15:02:12 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 15:12:58 -0700
+
+NoMethodError (undefined method `+@' for #<Array:0x2bbdbf0>):
+  app/models/dictionary.rb:22:in `updateWWF'
+  app/models/dictionary.rb:15:in `readDictionary'
+  app/models/dictionary.rb:34:in `buildDictionary'
+  app/models/dictionary.rb:7:in `initialize'
+  app/controllers/home_controller.rb:5:in `new'
+  app/controllers/home_controller.rb:5:in `initialize'
+
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.0ms)
+Rendered C:/Ruby192/lib/ruby/gems/1.9.1/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.6ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at C:/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/?query=da" for 127.0.0.1 at 2011-07-28 15:14:59 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"da"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 31ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?query=zine" for 127.0.0.1 at 2011-07-28 15:15:32 -0700
+  Processing by HomeController#index as HTML
+  Parameters: {"query"=>"zine"}
+Rendered home/index.html.erb (0.0ms)
+Completed 200 OK in 47ms (Views: 0.0ms | ActiveRecord: 0.0ms)
